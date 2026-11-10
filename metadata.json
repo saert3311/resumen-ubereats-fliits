@@ -1,0 +1,6 @@
+{
+  "name": "Uber Driver Analytics - Cuadro Resumen de Pedidos",
+  "description": "Análisis detallado de capturas de pedidos de Uber Driver: cuadro resumen con fecha, hora, dirección, kilometraje, tiempo de entrega, promedios y distancia total.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
